@@ -17,3 +17,37 @@ nav{
 color:rgb(228, 155, 15);
 
 }
+span{
+    color: rgb(128, 0, 0);
+}
+button{
+    color: rgb(128, 128, 0);
+}
+svg{
+    color: rgb(128, 128, 0);
+}
+path{
+    color: rgb(128, 128, 0);
+}
+circle{
+    color: rgb(128, 128, 0);
+}
+h4{
+  color: rgb(110, 38, 14);
+  text-align: center;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .section {
+    width: 50%;
+    height: 100%;
+  }  
+  video {
+    width: 100%;
+    height: 56.25%;
+    margin-top: 21.875%;
+  }
